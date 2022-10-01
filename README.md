@@ -9,7 +9,7 @@ Deploying rabbitMQ and PostgreSQL
 
 #### 2
 Going to RabbitMQ admin dashboard and need create queue with name "devices"
-guest/guest
+##### user/pass: guest/guest
 
 ```
     http://localhost:15672/#/queues
